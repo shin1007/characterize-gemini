@@ -1,1 +1,1 @@
-# characterize-gemini
+# pwa-katakana-builder
